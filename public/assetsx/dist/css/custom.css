@@ -1,0 +1,28 @@
+thead{
+	background-color: #008755;
+	color:#ffffff;
+}
+
+.count{
+	color: orangered;
+}
+a
+{
+color: #ffffff;	
+}
+
+.nitem{
+		border-bottom: 0.5px solid grey;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #F2F9F7;
+}
+.nav-item{
+
+color: #ffffff;		
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}
